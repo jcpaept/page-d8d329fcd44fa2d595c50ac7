@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "b117a90583f570e6238ba46f",
+  "owner": "jcpaept",
+  "repo": "page-d8d329fcd44fa2d595c50ac7",
+  "title": "GPT代充",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d8d329fcd44fa2d595c50ac7",
+      "a": "GPT代充",
+      "b": "",
+      "entity": "GPT代充",
+      "brand": "GPT代充",
+      "separator": "",
+      "path": "index.html",
+      "hash": "5400b8d2ff8f6e5ff1f23c1b44e5662e253fcfc051cd33461ec29e71ebe3ff25",
+      "content": {
+        "keyword1": "GPT代充",
+        "keyword2": "",
+        "primary_entity": "GPT代充",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "GPT代充提供专业网络加速服务，基础版¥15/月起，旗舰版¥35/月，团队版¥85/月。支持多设备，官网客户端下载，助您畅享高速稳定网络。",
+          "AI_DESCRIPTION": "GPT代充提供专业网络加速服务，基础版¥15/月起，旗舰版¥35/月，团队版¥85/月。支持多设备，官网客户端下载，助您畅享高速稳定网络。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n<style>\nbody {\n  font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif;\n  background-color: #FAF8F0;\n  color: #333333;\n  margin: 0;\n  padding: 0;\n  line-height: 1.6;\n}\nmain {\n  max-width: 1200px;\n  margin: 0 auto;\n  padding: 20px;\n}\nh1 {\n  color: #228B22;\n  font-size: 2.8em;\n  margin-bottom: 20px;\n  text-align: center;\n}\nh2 {\n  color: #228B22;\n  font-size: 1.8em;\n  margin: 30px 0 15px;\n}\nh3 {\n  color: #228B22;\n  font-size: 1.4em;\n  margin: 20px 0 10px;\n}\np {\n  margin-bottom: 15px;\n  font-size: 1em;\n}\nul, ol {\n  padding-left: 20px;\n  margin-bottom: 15px;\n}\n@media (max-width: 768px) {\n  h1 {\n    font-size: 2.2em;\n  }\n  h2 {\n    font-size: 1.6em;\n  }\n  main {\n    padding: 15px;\n  }\n  p {\n    font-size: 0.95em;\n  }\n  .plan-container {\n    flex-direction: column;\n  }\n  .plan-card {\n    min-width: 100%;\n  }\n}\n.plan-container {\n  display: flex;\n  flex-wrap: wrap;\n  gap: 20px;\n  margin: 30px 0;\n}\n.plan-card {\n  flex: 1;\n  min-width: 280px;\n  background-color: #ffffff;\n  border: 1px solid #dddddd;\n  border-radius: 8px;\n  padding: 20px;\n  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);\n}\n.featured {\n  border: 2px solid #228B22;\n  box-shadow: 0 4px 10px rgba(34, 139, 34, 0.2);\n}\n.plan-price {\n  color: #228B22;\n  font-size: 1.2em;\n  font-weight: bold;\n  margin: 10px 0;\n}\n.features ul {\n  list-style-type: none;\n  padding: 0;\n}\n.features li {\n  margin: 8px 0;\n  padding-left: 20px;\n  position: relative;\n}\n.features li:before {\n  content: \"✓\";\n  position: absolute;\n  left: 0;\n  color: #228B22;\n}\n.faq-section {\n  margin: 30px 0;\n}\ndetails {\n  margin-bottom: 15px;\n  border: 1px solid #dddddd;\n  border-radius: 6px;\n  overflow: hidden;\n}\nsummary {\n  background-color: #FAF8F0;\n  padding: 15px;\n  font-weight: bold;\n  cursor: pointer;\n  font-size: 1.1em;\n}\nsummary:hover {\n  background-color: #f0e9e0;\n}\nfooter {\n  background-color: #228B22;\n  color: #ffffff;\n  padding: 20px;\n  text-align: center;\n  margin-top: 40px;\n}\nfooter a {\n  color: #dddddd;\n  text-decoration: none;\n}\nfooter a:hover {\n  text-decoration: underline;\n}\n</style>\n\n\n<main>\n<h1>GPT代充</h1>\n<h2>品牌简介</h2>\n<p>GPT代充是专为用户打造的网络代理加速平台，旨在提供安全、快速的网络连接服务。我们致力于帮助用户突破地域限制，畅享全球优质资源。</p>\n<h2>使用场景</h2>\n<p>GPT代充适用于多种网络使用场景，包括：</p>\n<ul>\n<li>日常上网浏览</li>\n<li>在线游戏加速</li>\n<li>视频平台解锁</li>\n<li>远程办公</li>\n<li>企业网络优化</li>\n</ul>\n<h2>操作说明</h2>\n<ol>\n<li>访问官网并选择适合您的套餐计划</li>\n<li>下载对应客户端程序</li>\n<li>安装后登录账号</li>\n<li>选择节点连接即可使用</li>\n</ol>\n<h2>选择您的计划</h2>\n<div class=\"plan-container\">\n  <div class=\"plan-card\">\n    <h3>基础版</h3>\n    <p class=\"plan-price\">¥15/月 或 ¥150/年</p>\n    <div class=\"features\">\n      <ul>\n        <li>每月 100GB 极速流量</li>\n        <li>支持 3 台设备同时在线</li>\n        <li>解锁基础流媒体</li>\n        <li>普通线路节点池</li>\n      </ul>\n    </div>\n  </div>\n  <div class=\"plan-card featured\">\n    <h3>旗舰版</h3>\n    <p class=\"plan-price\">¥35/月 或 ¥350/年</p>\n    <div class=\"features\">\n      <ul>\n        <li>每月 300GB 极速流量</li>\n        <li>支持 5 台设备同时在线</li>\n        <li>全节点原生流媒体解锁</li>\n        <li>IPLC 专线游戏加速优化</li>\n        <li>7x24 优先工单支持</li>\n      </ul>\n    </div>\n  </div>\n  <div class=\"plan-card\">\n    <h3>团队版</h3>\n    <p class=\"plan-price\">¥85/月 或 ¥850/年</p>\n    <div class=\"features\">\n      <ul>\n        <li>每月 1000GB 极速流量</li>\n        <li>支持 20 台设备同时在线</li>\n        <li>VIP 专属高带宽节点</li>\n        <li>支持企业定制路由</li>\n        <li>专属客户经理服务</li>\n      </ul>\n    </div>\n  </div>\n</div>\n<h2 id=\"download\">客户端下载</h2>\n<p>立即选择并下载适合您的客户端：</p>\n<a href=\"#\">基础版客户端</a>\n<a href=\"#\">旗舰版客户端</a>\n<a href=\"#\">团队版客户端</a>\n<h2>常见问题 FAQ</h2>\n<div class=\"faq-section\">\n  <details>\n    <summary>什么是GPT代充？</summary>\n    <p>GPT代充是一款专业的网络代理加速器服务，提供多种流量套餐和节点选择，帮助用户实现高速稳定连接。</p>\n  </details>\n  <details>\n    <summary>如何选择适合我的计划？</summary>\n    <p>基础版适合个人用户，旗舰版支持游戏加速，团队版适合企业用户。根据您的设备数量和使用需求选择。</p>\n  </details>\n  <details>\n    <summary>客户端如何下载和安装？</summary>\n    <p>所有套餐均提供官网下载，点击页面下载链接即可获取最新客户端。安装完成后按照提示配置即可。</p>\n  </details>\n  <details>\n    <summary>支持哪些设备和平台？</summary>\n    <p>支持 Windows、macOS、Android、iOS 等主流设备和操作系统。</p>\n  </details>\n  <details>\n    <summary>如何解锁流媒体服务？</summary>\n    <p>通过连接IPLC专线节点可解锁Netflix、Disney+ 等流媒体平台。基础版支持基础流媒体解锁。</p>\n  </details>\n  <details>\n    <summary>客服和支持如何？</summary>\n    <p>旗舰版及以上提供7x24优先工单支持，团队版提供专属客户经理服务。</p>\n  </details>\n</div>\n<footer>\n<p>友情链接</p>\n<p><a href=\"#\">合作伙伴</a></p>\n<p>广告位：欢迎联系我们推广服务</p>\n</footer>\n<section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n\n",
+          "hash": "938821aeb69de39ccb6b0ebcc4115b2f9198eb5f9ddb0a1512e8714a91b3b367",
+          "seo": {
+            "title": "GPT代充 VPN 加速器 客户端下载 官网",
+            "keywords": "GPT代充, VPN, 加速器, 客户端下载, 官网, 梯子, 代理",
+            "description": "GPT代充提供专业网络加速服务，基础版¥15/月起，旗舰版¥35/月，团队版¥85/月。支持多设备，官网客户端下载，助您畅享高速稳定网络。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "youxiangtuan.cn",
+    "host": "p-27afeafd34.youxiangtuan.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "cad038551e32e20a572e0c63dee94b321c9590726f818c36fd7f564206017df6",
+    "sitemap.xml": "40cb638a8e67d2cbccfd52a6d76a155515d17db59e16afd71c389dbea845bdd9",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "18c0b8fd733a391f96a5186729b6ec07109e454c2999dbe8eefeb2931332e96f",
+    "robots.txt": "559a628c642534dca6760d3083cf31e992b9748d84e6e94f2737c47c0fb8e7f7",
+    "a6489ad2d55f980a95177cfd936452c9.txt": "88f57b7937a1683b10dc752fbb63687e60274b841069136c67adfdc94d8113e7"
+  },
+  "revision": "e013756544e17ad0e37a780ccbdeadf11ac5206edc8352c27bf006dc9e3e120b"
+}
